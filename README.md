@@ -4,7 +4,8 @@
  首先要搭建一个nodejs环境，确保安装了npm~
  在目录里面点击start.bat，执行下面两个代码即可。
  
-> npm install
+> npm install  
+
 > npm start
 
 
